@@ -7,11 +7,11 @@
 
 * 需要返回cookie,否则无限跳转,文件夹中带有nginx静态服务配置
 
-* 使用nginx后,并在hosts中添加一行app1.nmpa.gov.cn [你nginx的ip],浏览器访问http://app1.nmpa.gov.cn/data_nmpa/face3/base.jsp 即可调试js
+* 启动nginx后,并在hosts中添加一行app1.nmpa.gov.cn [你nginx服务器的ip],浏览器访问http://app1.nmpa.gov.cn/data_nmpa/face3/base.jsp 即可调试js
 
 ---
 
-### 增加2020年7月30号的逆向学习代码
+### 增加2020年10月14号的逆向学习代码
 * 1.对代码格式
 * 2.处理控制流平坦化,减少对键盘伤害
 * 3.对加密方法名解密,减少对鼠标伤害
